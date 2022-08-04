@@ -4,14 +4,17 @@ sono **Lorenzo Appendini**, neolaureato in **Ingegneria Infomatica** di **II liv
 
 ## :mortar_board: Istruzione
 * #### Laurea Magistrale in Ingegneria Informatica (Computer Engineering) - Piano studi: Software
-  Politecnico di Torino
+  ##### Lingua: Italiano
+  
+  **Politecnico di Torino** - Torino, Italia
   
   ###### Marzo 2020 - Luglio 2022
   
   Tesi: [Gamification per il Web Testing: Studio ed Applicazione ad un Tool di Augmented Testing](https://github.com/Neppa97/Neppa97/blob/main/gamification-per-il-web-testing-studio-ed-applicazione-ad-un-tool-di-augmented-testing.pdf)
 
 * #### Laurea in Ingegneria Informatica
-  Politecnico di Torino
+  ##### Lingua: Italiano
+  
+  **Politecnico di Torino** - Torino, Italia
   
   ###### Settembre 2016 - Marzo 2020
-
