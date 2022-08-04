@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[ITA](https://github.com/Neppa97/Neppa97/blob/main/README-it.md) - ENG
+
 <!--
 **Neppa97/Neppa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
